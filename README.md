@@ -307,7 +307,7 @@ The listing becomes available in the marketplace.
 
 # 📜 License
 
-MIT license Certified
+This project is licensed under the MIT License.
 
 # ❤️ Final Thought
 
