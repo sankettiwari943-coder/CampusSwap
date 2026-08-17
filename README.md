@@ -305,7 +305,7 @@ The listing becomes available in the marketplace.
 
 ---
 
-# 📜 License
+# 📜 License.
 
 This project is licensed under the MIT License.
 
