@@ -313,7 +313,7 @@ This project is licensed under the MIT License.
 
 > **The book you need is probably already sitting on someone's shelf.**
 
-### CampusSwap--https://luxury-pie-fcb41d.netlify.app/
+### CampusSwap--campusswapp.netlify.app
 
 **Buy Smart. Sell Easy.**
 
